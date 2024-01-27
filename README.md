@@ -1,5 +1,4 @@
 
-```markdown
 # AgroTech Solutions: Data-Driven Crop Management
 
 Welcome to AgroTech Solutions, a project dedicated to leveraging data-driven approaches for efficient crop management in agriculture.
